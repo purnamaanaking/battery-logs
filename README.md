@@ -15,4 +15,4 @@ npm install
 expo start
 ```
 
-- Press `a` to open on Android Device
+- Press `a` to open on Android Device or scan the QR code from Expo Go App
